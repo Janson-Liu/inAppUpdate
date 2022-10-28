@@ -1,4 +1,4 @@
-package com.example.inappupdate
+package com.sv.inappupdate
 
 import org.junit.Test
 

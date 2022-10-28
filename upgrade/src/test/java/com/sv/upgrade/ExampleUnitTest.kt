@@ -1,4 +1,4 @@
-package com.example.upgrade
+package com.sv.upgrade
 
 import org.junit.Test
 
